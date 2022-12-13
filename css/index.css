@@ -18,10 +18,11 @@ body {background-color: darkslategray;
     color: whitesmoke;
     display: flex;
  
-    margin: 100px;
+  margin: 125px;
     border-style: solid;
    
 }
+
 
 .dog {
     margin-left: 100 px;
@@ -31,11 +32,12 @@ body {background-color: darkslategray;
 }
 
 .container {
-    font-size: large;
+    font: size 50px;;
     display: flex ;
 border-style: solid;
-border-color: blue;
+
     background-color: azure;
+    justify-content: space-between;
     
     
 }
@@ -45,7 +47,18 @@ border-color: blue;
     color:skyblue ;
     display: flex;
     
-    
-    
 }
    
+.container2 {
+    display: flex;
+    background-color: darkturquoise;
+border-style: solid;
+justify-content: space-between;
+
+}
+
+.dog-2 {
+border-style: solid;
+  
+}
+
