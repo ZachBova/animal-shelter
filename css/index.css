@@ -8,7 +8,7 @@ body {background-color: darkslategray;
     font-size: xx-large;
     margin-right: 500px;
     font-weight: bold;
- border-style: solid;
+ 
 }
 
 
@@ -44,7 +44,7 @@ border-style: solid;
 
 .item{
 
-    color:skyblue ;
+    color:darkslategray ;
     display: flex;
     
 }
@@ -57,8 +57,41 @@ justify-content: space-between;
 
 }
 
+
+
 .dog-2 {
+ 
 border-style: solid;
-  
+
 }
 
+.dog-3 {
+
+border-style: solid;
+}
+
+
+.dog-4 {
+border-style: solid;
+
+}
+
+
+.container3 {
+    background-color: bisque;
+
+    display: flex;
+    border-style: solid;
+    margin-top: 200px; 
+    margin-bottom: 150px;
+}
+
+.quote1 {
+ 
+display: flex; 
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 100px;
+margin-left: 400px;
+
+
+}
