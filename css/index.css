@@ -20,6 +20,7 @@ body {background-color: darkslategray;
  
   margin: 125px;
     border-style: solid;
+  text-align: center;
    
 }
 
@@ -51,8 +52,8 @@ border-style: solid;
    
 .container2 {
     display: flex;
-    background-color: darkturquoise;
-border-style: solid;
+    background-color: bisque;
+
 justify-content: space-between;
 
 }
@@ -62,18 +63,23 @@ justify-content: space-between;
 .dog-2 {
  
 border-style: solid;
+text-align: center;
 
 }
 
 .dog-3 {
+    border-style: solid;
+border-radius: 1em;
+text-align: center;
+background-attachment: fixed;
+height: fit-content;
 
-border-style: solid;
 }
 
 
 .dog-4 {
 border-style: solid;
-
+text-align: center;
 }
 
 
